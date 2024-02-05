@@ -1,6 +1,6 @@
 # SQL_Query
 
-![Screenshot 2024-01-20 155326](https://github.com/tapader13/sql_query/assets/125242130/5593aade-6530-4f09-b2fe-367da4423296)
+![Screenshot 2024-02-04 110200](https://github.com/tapader13/sql-query/assets/125242130/17b41e17-fb54-4611-8e3f-303b1e930f3e)
 
 ```sql
 create database university;
